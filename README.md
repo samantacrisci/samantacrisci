@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Samanta Crisci 👋
 
-<!--
-**samantacrisci/samantacrisci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional con experiencia en administración y gestión, orientada al análisis de información. Busco colaborar en proyectos de los ámbitos educativo, gubernamental o de ciencias sociales.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
+- **Lenguajes y BD:** Python (Pandas, Matplotlib), SQL
+- **Visualización:** Power BI, Tableau
+- **Software:** Excel avanzado aplicado a datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educación
+- Tecnicatura Universitaria en Gestión y Análisis de Datos | FCE - UBA (En curso)
+- Carrera de Data Analytics | Coderhouse
+- Análisis de Datos en Ciencias Sociales con Python | UBA
+
+## 📫 Contacto
+- Email: samanta.crisci@gmail.com
+- [LinkedIn][https://www.linkedin.com/in/samanta-crisci-55299938b/)
