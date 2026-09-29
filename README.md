@@ -14,4 +14,4 @@ Profesional con experiencia en administración y gestión, orientada al análisi
 
 ## 📫 Contacto
 - Email: samanta.crisci@gmail.com
-- [LinkedIn][https://www.linkedin.com/in/samanta-crisci-55299938b/)
+- LinkedIn: https://www.linkedin.com/in/samanta-crisci-55299938b/
