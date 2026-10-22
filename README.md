@@ -1,6 +1,6 @@
 # Hola, soy Samanta Crisci 👋
 
-Profesional con experiencia en administración y gestión, orientada al análisis de información. Busco colaborar en proyectos de los ámbitos educativo, gubernamental o de ciencias sociales.
+Analista de Datos con sólida trayectoria en gestión operativa, administración y enfoque en ciencias sociales y educación. Actualmente curso la Tecnicatura Universitaria en Gestión y Análisis de Datos (FCE - UBA) y me desempeño como Analista de Datos y Lógica de Negocio / QA en el marco del proyecto Preciar en INNOVALAB.
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes y BD:** Python (Pandas, Matplotlib), SQL
